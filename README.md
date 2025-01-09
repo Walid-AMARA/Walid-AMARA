@@ -1,7 +1,44 @@
-### Hi there 👋
+# 🌟 About Me 🌟
 
-# 💫 About Me:
-AI & BI solutions Consultant for Majal Berkane 🟧 (R&D Direction of Innovation Lab), Developing state of the art models to tackle recent issues that Morocco faces. Leveraging Computer Vision, Statistical analysis, Research and Development (Scientific publications) and end-to-end effective pipelines and smart solutions that can seamlessly integrate to our smart city.<br><br>Some of our Projects that Me and my team are proud to develop in Majal Berkane:<br><br>🎯Smart Alert System for Stray Animals.<br>🎯Face Recognition Robust Framework (Published in the 28th Conference Edition of IEEE ISCC 2023 🔷).<br>🎯E-Moulouya SIBE Wildlife Monitoring (Published in the 28th Conference Edition of IEEE ISCC 2023 🔷).<br>🎯Saidia Safe Swim (Violation and Drowning cases Recognition for safety protocols).<br>🎯Traffic Management 🚗 using Congestion Estimation.<br><br><br>I also do BI Freelancing Projects and Consultation, some of my main freelancing career points:<br><br>BI Analyst Feb 2022 - Jan 2023<br>Genius Sports Remote<br>• Data Exploration, cleaning, analysis and data modeling of sport events for Genius Sports.<br>• Automating reports generation of data visualization resulting into 50% faster insights reporting and decision making<br>• Employing Correlation, Clustering and Ensemble Trees to classify and group events together as an innovative approach to<br>Smart Territory Monitoring Center (BI Solutions Architect): Architecture design of an end to end monitoring<br>center for AI, BI and IoT operations and overall city status dashboarding, reducing over staffing by 30<br>• Development of a robust monitoring platform that can handle up to 16 streams for monitoring the city with a an ML<br>algorithm running in real-time.<br>• Developed Web Applications for storage management and dashboard visualization using JavaScript D3. Resulting in<br>automated E-Commerce management, 20% more sales and decision making ease.
+👨‍💻 **Cloud Engineer | GCP | Data Engineering | DevOps | AI Solutions**
+
+Hi there! I’m **Walid AMARA**, a professional Cloud Engineer with a versatile background in data engineering, cloud computing, DevOps, and AI-powered solutions. My career has been defined by the ability to integrate cutting-edge technologies across domains, delivering impactful and scalable systems for complex challenges.
+
+---
+
+## 💡 Technical Expertise
+
+✔ **Data Engineering**: Advanced skills in Apache Beam (Java), Dataflow, BigQuery, and ETL pipeline development, enabling seamless data processing at scale
+
+✔ **Cloud Infrastructure**: Proficient in Terraform and GCP services, ensuring secure, efficient, and reliable deployments
+
+✔ **DevOps Practices**: Expertise in CI/CD pipelines and infrastructure automation to streamline development and deployment processes
+
+✔ **AI & Machine Learning**: Extensive experience in developing and deploying AI solutions, including computer vision, statistical modeling, and predictive analytics using Python
+
+---
+
+## 🔍 Professional Highlights
+
+➤ Designed and implemented data migration pipelines and optimized workflows for large-scale data processing on GCP
+
+➤ Delivered AI-driven solutions, such as a wildlife monitoring system and a face recognition framework (*both published at IEEE ISCC 2023* 🔷)
+
+➤ Developed safety and traffic management solutions powered by AI and cloud technologies
+
+➤ Leveraged a blend of AI and data engineering skills to design systems that integrate analytics and machine learning seamlessly into production environments
+
+➤ Automated and managed cloud infrastructure with tools like Terraform, ensuring reliability and scalability
+
+---
+
+## 🎯 Delivering Impact Through Innovation
+
+My expertise bridges the gap between AI research and enterprise-grade solutions, enabling me to deliver practical, high-performing systems. With a foundation in AI and a focus on data-driven cloud technologies, I am committed to building solutions that align with strategic business objectives.
+
+---
+
+🌐 **Let’s Connect and Build Together!**
 
 
 ## 🌐 Socials:
